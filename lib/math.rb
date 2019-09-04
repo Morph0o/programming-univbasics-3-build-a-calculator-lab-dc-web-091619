@@ -24,5 +24,6 @@ return sum
 end
 
 def square_root(num)
-sum= 
+sum= sqrt(num)
+return sum
 end
